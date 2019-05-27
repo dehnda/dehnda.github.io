@@ -1,23 +1,27 @@
 ## Experienced in
 
-Python, Delphi
+* Python
+* Delphi
+* HTML, CSS, Javascript
+* Git
+* Jenkins
 
 
 ### Professional Experience
 
 2017 - Now  **Senior Software Engineer**, D. Swarovski KG
 
-2012 - 2017 **Abteilungsleiter Druck & IT**, smart letter & Services Versand GmbH
+2012 - 2017 **Abteilungsleiter Druck & IT**, smart letter & Services 
 
-2010 - 2012 **Auftragsvorbereitung Druck**, smart letter & Services Versand GmbH
+2010 - 2012 **Auftragsvorbereitung Druck**, smart letter & Services 
 
 2006 - 2007 **Saisonsmitarbeiter Verkauf und Verleih**, Sport Alber St. Anton
 
 ### Education
 
-2007 - 2010 **Geschichte und theologische Philosophie**, Universität Innsbruck
+2007 - 2010 **Geschichte und theologische Philosophie**, UIBK
 
-2005 - 2006 **Zivildienst - Rettungssanitäter**, Österreichischen Roten Kreuz
+2005 - 2006 **Zivildienst - Rettungssanitäter**, ÖRK
 
 1997 - 2005 **BRG Landeck**
 
